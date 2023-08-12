@@ -10,10 +10,15 @@ Create a Python 3 virtual environment inside the Hacks folder:
 
 ```
 cd ./cadCAD-Hacks/
-python3 -m venv venv```
+python3 -m venv venv
+```
 Activate your virtual environment (operating system dependent, works on macOS/Unix OS):
 
-```source venv/bin/activate```
+```
+source venv/bin/activate
+```
 Install the Python dependencies from requirements.txt file:
 
-```python3 -m pip install -r requirements.txt```
+```
+python3 -m pip install -r requirements.txt
+```
